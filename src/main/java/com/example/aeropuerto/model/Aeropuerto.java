@@ -11,6 +11,4 @@ public class Aeropuerto {
     private String nombreAeropuerto;
     @OneToOne
     private Ciudad ciudad;
-
-
 }
